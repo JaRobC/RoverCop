@@ -21,3 +21,5 @@ Customizable: Easily expandable and customizable for additional features.
 - Upload Code: Upload the provided Arduino sketch to your Arduino board.
 - Control: Pair your Bluetooth device with HC-05 and send commands ('F', 'B', 'L', 'R', 'S') to control RoverCop.
 
+# Contributing
+Blast02
