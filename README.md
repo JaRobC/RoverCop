@@ -22,4 +22,4 @@ Customizable: Easily expandable and customizable for additional features.
 - Control: Pair your Bluetooth device with HC-05 and send commands ('F', 'B', 'L', 'R', 'S') to control RoverCop.
 
 # Contributing
-Blast02
+Feel free to ask me to fork this project and enhance it further. All Contributions are welcome!
